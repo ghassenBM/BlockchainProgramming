@@ -16,3 +16,27 @@ p {
     background-color: #e3e3e3;
     margin-top: 200px
 }
+
+.active {
+    background-color: #008080;
+}
+
+.navbar-inverse {
+    background-color: #008080;
+}
+
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #008080;
+}
+
+.div-form {
+    width: 100px;
+    height: 300px;
+}
+
+h3 {
+    margin-left: 50px;
+}
